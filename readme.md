@@ -19,11 +19,14 @@ However you can mix one of "color fx" with one (and only one) of the effects, lo
 
 In Mixxx, you can use several (and any) effects simultaneously. For that you select some effects (well, choose and add those first), and then use super knob to manipulate em all.
 
-So I decided to use the loop slice buttons to enable-disable (chosen) effects, and then I use the (silver) knob, which is located under the low frequencies EQ knob, with which you can apply filter on the channel, as a super knob.
+So I decided to use the loop slice buttons to enable-disable (chosen) effects, and then I use the color fx knob as a super knob.
 
 tempo button changes the tempo slider diapason as:
+
 -3 to +3 BPM, 
+
 -6 to +6 BPM,
+
 -12 to +12 BPM.
 
 what doesn't work
