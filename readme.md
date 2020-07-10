@@ -9,7 +9,7 @@ what works
 
 I think I mapped almost everything, and I can work with this mapping.
 
-Mixxx design differs from XDR-RX design.
+Mixxx design differs from XDJ-RX design.
 
 One example is, quantize button is one for all decks on XDJ-RX, while Mixxx has the separate quantize buttons for each deck.
 
@@ -35,7 +35,7 @@ what doesn't work
 If you are a Linux user, currently Linux (ALSA) doesn't recognize XDJ-RX's soundcard. And I guess will unlikely recognize.
 So for previews via headphones, you need another sound card. (one card for your master output, let's say your laptop card, and one card to route previews to your headphones)
 
-Also, XDR-RX doesn't have MIDI OUT, which means, it is not possible to control LEDs via MIDI signals, and those won't flash, go on/off. What I personally will miss, and that was one of the main reasons to buying this exact model - LED animation on a jog wheel, which shows that this "turntable" is currently playing.
+Also, XDJ-RX doesn't have MIDI OUT, which means, it is not possible to control LEDs via MIDI signals, and those won't flash, go on/off. What I personally will miss, and that was one of the main reasons to buying this exact model - LED animation on a jog wheel, which shows that this "turntable" is currently playing.
 
 And the last - difference from the real layout of XDJ-RX device:
 You put hot cues by using hot cue buttons, but you clean them, by pressing same buttons with 'shift'.
