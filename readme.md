@@ -37,5 +37,5 @@ So for previews via headphones, you need another sound card. (one card for your 
 
 Also, XDR-RX doesn't have MIDI OUT, which means, it is not possible to control LEDs via MIDI signals, and those won't flash, go on/off. What I personally will miss, and that was one of the main reasons to buying this exact model - LED animation on a jog wheel, which shows that this "turntable" is currently playing.
 
-And the last - difference from the real layout of XDR-RJ device:
+And the last - difference from the real layout of XDJ-RX device:
 You put hot cues by using hot cue buttons, but you clean them, by pressing same buttons with 'shift'.
