@@ -1,3 +1,11 @@
+how to use
+==========
+
+put xml and js file to .mixxx/controllers directory, if you run it on Linux.
+on other systems there is a bit different path, but you probably know it.
+
+what works
+==========
 
 I think I mapped almost everything, and I can work with this mapping.
 
@@ -18,8 +26,8 @@ tempo button changes the tempo slider diapason as:
 -6 to +6 BPM,
 -12 to +12 BPM.
 
-
-What doesn't work:
+what doesn't work
+=================
 
 If you are a Linux user, currently Linux (ALSA) doesn't recognize XDJ-RX's soundcard. And I guess will unlikely recognize.
 So for previews via headphones, you need another sound card. (one card for your master output, let's say your laptop card, and one card to route previews to your headphones)
